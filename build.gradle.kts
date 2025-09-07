@@ -22,7 +22,7 @@ hivemqExtension {
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(11)
+        languageVersion = JavaLanguageVersion.of(21)
     }
 }
 
